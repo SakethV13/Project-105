@@ -1,0 +1,21 @@
+#body1{
+    text-align:center;
+    background-color:lightsalmon;
+}
+
+#heading{
+    font-size:40px;
+    font:400;
+}
+#camera{
+    width:500px;
+    height:500px;
+    border:2px solid;
+    
+}
+
+#Selife{
+    width:500px;
+    height:500px;
+    border:2px solid;
+}
